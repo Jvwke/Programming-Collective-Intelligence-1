@@ -1,2 +1,3 @@
 # Programming-Collective-Intelligence
-personal exercise for book &lt;Programming Collective Intelligence>, python3
+<Programming Collective Intelligence> is a good exercise reference for machine learning, as this book little old,
+I try to convert example to **python3(jupyter notebook)**.
